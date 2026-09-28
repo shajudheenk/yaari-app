@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- The Yaari360 mark.
+       Inside: two strokes meet and continue as one - the customer and the
+       professional. The arms are deliberately unequal so the upper half also
+       reads as a tick, the verification the whole product turns on.
+       Around it: a closed ring. 360, all the way round, nothing missing -
+       and a ring around a tick is a seal, which is what Yaari actually is. -->
+  <circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="8"/>
+  <g transform="translate(50 50) scale(0.62) translate(-53 -51)"
+     fill="none" stroke="currentColor" stroke-width="13"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 31 L50 57 L79 18"/>
+    <path d="M50 57 L50 84"/>
+  </g>
+</svg>

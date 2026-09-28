@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- The mark without its ring, for places too small to hold one:
+       a favicon, a 16px row icon, an embroidered polo shirt. -->
+  <g fill="none" stroke="currentColor" stroke-width="11"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 31 L50 57 L79 18"/>
+    <path d="M50 57 L50 84"/>
+  </g>
+</svg>
